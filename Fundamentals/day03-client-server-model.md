@@ -10,5 +10,9 @@ or the server/site itself down for everyone?
 
 ## Interview Q&A
 **Q: How would you troubleshoot "Google works but our company site doesn't load for anyone"?**
+
 Since Google works, local network/internet access is fine. I'd check if the site is
 down for everyone via a status checker, then check DNS resolution and server status.
+
+
+<img width="499" height="300" alt="images" src="https://github.com/user-attachments/assets/1dbb20d4-33eb-4a21-8870-f0d9bdb4fed0" />
