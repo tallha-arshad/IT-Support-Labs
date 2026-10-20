@@ -16,8 +16,9 @@ This is the exact process used when a company hires a new employee. The L1 tech 
 **Q: What happens if you create a user but forget to assign a license?**
 A: The user will be created in Active Directory, but they will not have access to any Microsoft 365 services like Outlook, Teams, or OneDrive. They will get an error when trying to log in.
 
-<img width="1364" height="768" alt="MS-365-Add-User" src="https://github.com/user-attachments/assets/626e2af3-e092-49d3-a662-99ef1793b6c2" />
+<img width="1364" height="768" alt="MS-365-Add-User" src="https://github.com/user-attachments/assets/3be58b40-ec07-4e86-87fa-08931e122fbc" />
 
-<img width="1366" height="768" alt="MS-365-User-added" src="https://github.com/user-attachments/assets/4ec3a6e7-b8e9-4b8b-b965-1d5039e13346" />
+<img width="1366" height="768" alt="MS-365-User-added" src="https://github.com/user-attachments/assets/448d36bb-ff77-4411-a686-46b03bb02dfe" />
 
-<img width="1366" height="768" alt="Ms-356-User-in-panel" src="https://github.com/user-attachments/assets/a41ac26a-7e00-49b8-b360-5795fd4dc266" />
+<img width="1366" height="768" alt="Ms-356-User-in-panel" src="https://github.com/user-attachments/assets/6ebe07c6-4c3e-45cc-919b-ec02260cd9a0" />
+
