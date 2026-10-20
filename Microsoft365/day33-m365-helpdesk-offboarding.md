@@ -14,10 +14,14 @@ If an employee leaves and you delete their account, you lose access to their ema
 **Q: Why block a user's sign-in instead of deleting their account immediately?**
 A: Deleting an account removes the mailbox and data. Blocking sign-in stops them from logging in immediately but keeps the data intact for transfer or compliance.
 
-<img width="1366" height="768" alt="MS-365-User-management-Options" src="https://github.com/user-attachments/assets/ae9efc87-d21c-4f9a-8a4b-96ef391252c1" />
+<img width="1366" height="768" alt="MS-365-User-management-Options" src="https://github.com/user-attachments/assets/57cbd9b6-de86-4ea2-ab5e-668e171fd26d" />
 
-<img width="1366" height="768" alt="MS-365-user-password-Reset" src="https://github.com/user-attachments/assets/82809945-df62-434a-a26c-017ba933b9ab" />
 
-<img width="1366" height="768" alt="MS-365-offboarding" src="https://github.com/user-attachments/assets/28ae3306-3fb4-4564-8804-b6ef7a4e4c45" />
+<img width="1366" height="768" alt="MS-365-user-password-Reset" src="https://github.com/user-attachments/assets/9b3055d3-66e3-4a9f-952b-373de61863c6" />
 
-<img width="1366" height="768" alt="MS-365-Sign-in-Blocked-offboarded" src="https://github.com/user-attachments/assets/970c3261-56f8-48db-a4ee-f691e8ccc31b" />
+
+<img width="1366" height="768" alt="MS-365-offboarding" src="https://github.com/user-attachments/assets/af4b49e5-6553-4283-aaa1-6894574ca7ae" />
+
+
+<img width="1366" height="768" alt="MS-365-Sign-in-Blocked-offboarded" src="https://github.com/user-attachments/assets/76762696-6fe6-40ab-9392-2334f99f5c05" />
+
