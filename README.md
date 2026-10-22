@@ -82,7 +82,7 @@ Click any day to jump straight into that specific lab file.
 - [Day 32 - User Onboarding & Licensing](./Microsoft365/day32-m365-user-onboarding.md)
 - [Day 33 - Password Reset & Offboarding](./Microsoft365/day33-m365-helpdesk-offboarding.md)
 - [Day 34 - Microsoft Entra ID & Sign-in Logs](./Microsoft365/day34-microsoft-entra-id.md)
-- Day 35 - Exchange Online (In progress)
+- [Day 35 - Exchange Online](./Microsoft365/day35-exchange-online.md)
 - Day 36 - Security & Onboarding (Coming)
 - Day 37-42 - Windows & Hardware Troubleshooting (Coming)
 - Day 43-48 - Real Tickets & Interview Prep (Coming)
