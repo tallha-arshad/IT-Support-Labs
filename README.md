@@ -24,8 +24,8 @@ Every day I study the theory, do a hands-on lab, and document it here with scree
 | Foundation | 13-18 | Subnet masks, CIDR, VLSM, route commands, IPv6 basics | Done |
 | Foundation | 19-24 | VirtualBox, Windows Server setup, VM networking, snapshots | Done |
 | Foundation | 25-30 | Active Directory - DC promotion, OUs, users, groups, PowerShell | Done |
-| L1-Critical | 31-36 | Microsoft 365, Entra ID, Intune, Exchange Online, Security, Onboarding | In progress |
-| L1-Critical | 37-42 | Windows troubleshooting, BSOD, BIOS/UEFI, printers, hardware faults | Coming |
+| L1-Critical | 31-36 | Microsoft 365, Entra ID, Exchange Online, Intune | Done |
+| L1-Critical | 37-42 | Security fundamentals, Onboarding scenario, Windows troubleshooting, Printers | Next |
 | L1-Critical | 43-48 | Real tickets + Incident Response + STAR interview prep | Coming |
 | L1-Critical | 49-54 | Windows CMD, PowerShell, Linux basics | Coming |
 | AZ-900 Prep | 55-60 | Microsoft Azure Fundamentals exam preparation | Coming |
@@ -82,9 +82,10 @@ Click any day to jump straight into that specific lab file.
 - [Day 32 - User Onboarding & Licensing](./Microsoft365/day32-m365-user-onboarding.md)
 - [Day 33 - Password Reset & Offboarding](./Microsoft365/day33-m365-helpdesk-offboarding.md)
 - [Day 34 - Microsoft Entra ID & Sign-in Logs](./Microsoft365/day34-microsoft-entra-id.md)
-- [Day 35 - Exchange Online](./Microsoft365/day35-exchange-online.md)
-- Day 36 - Security & Onboarding (Coming)
-- Day 37-42 - Windows & Hardware Troubleshooting (Coming)
+- [Day 35 - Exchange Online Basics](./Microsoft365/day35-exchange-online.md)
+- [Day 36 - Microsoft Intune (Endpoint Management)](./Microsoft365/day36-microsoft-intune.md)
+- Day 37 - Security & Onboarding (Coming)
+- Day 38-42 - Windows & Hardware Troubleshooting (Coming)
 - Day 43-48 - Real Tickets & Interview Prep (Coming)
 - Day 49-54 - Command Line Basics (Coming)
 
@@ -95,7 +96,7 @@ Click any day to jump straight into that specific lab file.
 - Windows Server 2019/2022
 - Windows 10/11
 - Active Directory Domain Services
-- Microsoft 365 (Admin Center, Entra ID, Exchange Online)
+- Microsoft 365 (Admin Center, Entra ID, Exchange Online, Intune)
 - PowerShell
 - Windows CMD
 
@@ -116,4 +117,4 @@ Each day's markdown file follows a consistent structure:
 
 Currently looking for an IT Support / Helpdesk L1 role. Open to relocation.
 
-#ITSupport #Networking #ActiveDirectory #WindowsServer #M365 #EntraID #LearningInPublic
+#ITSupport #Networking #ActiveDirectory #WindowsServer #M365 #EntraID #Intune #LearningInPublic
