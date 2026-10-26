@@ -19,4 +19,5 @@ Installing Windows Server is the foundation of building a domain. Most corporate
 **Q: What is the difference between Server Core and Desktop Experience?**
 A: Server Core has no graphical interface and is managed entirely via command line or remote tools, saving resources. Desktop Experience includes the full Windows GUI, making it easier for beginners to navigate.
 
-![Uploading Server-installation-on-VMware.PNG…]()
+<img width="1365" height="730" alt="Server-installation-on-VMware" src="https://github.com/user-attachments/assets/40e3ad62-4e50-4d4b-b5a4-5f971b2536d0" />
+
