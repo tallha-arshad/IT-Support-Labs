@@ -78,17 +78,23 @@ Click any day to jump straight into that specific lab file.
 ### Phase 2: L1-Critical (Days 31-54)
 
 **Microsoft 365 & Cloud Identity**
+**Phase 2: L1-Critical (Days 31-54)**
+
+**Microsoft 365 & Cloud Identity**
 - [Day 31 - M365 Tenant Setup & Admin Center](./Microsoft365/day31-m365-tenant-setup.md)
 - [Day 32 - User Onboarding & Licensing](./Microsoft365/day32-m365-user-onboarding.md)
 - [Day 33 - Password Reset & Offboarding](./Microsoft365/day33-m365-helpdesk-offboarding.md)
 - [Day 34 - Microsoft Entra ID & Sign-in Logs](./Microsoft365/day34-microsoft-entra-id.md)
 - [Day 35 - Exchange Online Basics](./Microsoft365/day35-exchange-online.md)
 - [Day 36 - Microsoft Intune (Endpoint Management)](./Microsoft365/day36-microsoft-intune.md)
-- Day 37 - Security & Onboarding (Coming)
-- Day 38-42 - Windows & Hardware Troubleshooting (Coming)
-- Day 43-48 - Real Tickets & Interview Prep (Coming)
-- Day 49-54 - Command Line Basics (Coming)
+- [Day 37 - Security & Onboarding](./Microsoft365/day37-security-and-onboarding.md)
 
+**Troubleshooting & Hardware**
+- [Day 38 - Windows Event Viewer & BSOD](./Troubleshooting/day38-windows-troubleshooting-bsod.md)
+- [Day 39 - BIOS/UEFI & Boot Configuration](./Troubleshooting/day39-bios-uefi-config.md)
+- [Day 40 - Printer Troubleshooting & Print Spooler](./Troubleshooting/day40-printer-spooler-troubleshooting.md)
+- Day 41-42 - Hardware & OS Troubleshooting (Coming)
+- Day 43-48 - Real Tickets & Interview Prep (Coming)
 ## Tools and Technologies
 
 - Cisco Packet Tracer
